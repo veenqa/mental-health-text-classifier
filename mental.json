@@ -1,0 +1,248 @@
+[
+  {
+    "text": "I feel so hopeless lately, like nothing matters.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I’m constantly overthinking every little thing.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I have so many responsibilities, I don’t know where to start.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Some days I just want to stay in bed and disappear.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "My heart races every time I think about tomorrow's exam.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "Too many deadlines and no time to rest.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I feel numb and unmotivated to do anything.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I get so anxious just thinking about the future.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I’ve taken on more than I can handle at work and school.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Nothing excites me anymore, I feel empty.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I can't focus because my mind keeps spinning.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "Everyone expects me to be perfect all the time.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I feel like a burden to everyone around me.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I’m so worried about disappointing others.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "There’s just too much going on, and I can’t keep up.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I cry for no reason and don’t want to talk to anyone.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "Even the smallest task makes me feel overwhelmed.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I’ve got emails, assignments, calls — it’s too much.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Lately, nothing feels worth the effort.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I keep worrying about things that haven't even happened.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I feel mentally and physically drained.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Why does everything feel so heavy lately?",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I can’t sleep at night, my mind won’t shut down.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "My plate is too full — work, family, and studies.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I feel like I’m just going through the motions.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I get nervous even thinking about social events.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "Too many responsibilities and not enough time.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I feel like I'm constantly letting people down.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I can’t concentrate because of this anxiety.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "It’s like everything is happening all at once.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Even when I smile, I feel empty inside.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I’m always worried about failing.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I’ve said yes to too many things and now I’m stuck.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I’ve lost interest in everything I used to enjoy.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "Every little thing feels like a big problem.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I can't seem to catch up with life.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Sometimes I feel invisible and unimportant.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "The constant pressure is getting to me.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I feel like I’m always playing catch-up.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "Even good news doesn’t make me happy anymore.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I’m always on edge and can’t relax.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "I feel like I’m drowning in tasks.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "It’s like a cloud is always following me.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I panic when things don't go as planned.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "There’s no room to breathe in my schedule.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I feel stuck in a dark place with no way out.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  },
+  {
+    "text": "I constantly feel like something bad is going to happen.",
+    "label": "stress",
+    "suggestion": "Try some breathing exercises or take a short break. Small pauses can refresh the mind."
+  },
+  {
+    "text": "Everything is urgent, and I’m the only one managing it.",
+    "label": "emotional_load",
+    "suggestion": "Break tasks into small chunks and prioritize. Remember, it's okay to slow down."
+  },
+  {
+    "text": "I just want peace but I can't find it inside me.",
+    "label": "depression",
+    "suggestion": "You're not alone. Consider speaking with a professional or journaling your thoughts daily."
+  }
+]
+
